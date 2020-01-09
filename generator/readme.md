@@ -1,0 +1,1 @@
+mybatis-plus生成模板，可以生成controller，service，dao，mapper等
